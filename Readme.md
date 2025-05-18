@@ -34,9 +34,9 @@ This project is a simple and elegant supermarket ordering webpage built using **
 
 ## Technologies
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+- HTML
+- CSS
+- JavaScript 
 
 ---
 
